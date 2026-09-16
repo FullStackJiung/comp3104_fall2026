@@ -1,1 +1,3 @@
-#### comp3104 - Developer Operations
+# comp3104 - Developer Operations
+
+-- Jiung Yang
