@@ -1,3 +1,4 @@
 # comp3104 - Developer Operations
 
--- Jiung Yang
+- Jiung Yang
+- George Brown Polytechnic
