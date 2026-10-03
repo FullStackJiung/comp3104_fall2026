@@ -1,20 +1,24 @@
 {
-  "name": "comp3104-github",
+  "name": "comp3104",
   "version": "1.0.0",
-  "description": "- Jiung Yang - George Brown Polytechnic",
+  "description": "- Pritesh Patel - George Brown Polytechnic",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FullStackJiung/comp3104_fall2026.git"
+    "url": "git+https://github.com/pritamworld/f2026_comp3104.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/FullStackJiung/comp3104_fall2026/issues"
+    "url": "https://github.com/pritamworld/f2026_comp3104/issues"
   },
-  "homepage": "https://github.com/FullStackJiung/comp3104_fall2026#readme"
+  "homepage": "https://github.com/pritamworld/f2026_comp3104#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
