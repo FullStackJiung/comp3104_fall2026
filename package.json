@@ -1,0 +1,20 @@
+{
+  "name": "comp3104-github",
+  "version": "1.0.0",
+  "description": "- Jiung Yang - George Brown Polytechnic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStackJiung/comp3104_fall2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullStackJiung/comp3104_fall2026/issues"
+  },
+  "homepage": "https://github.com/FullStackJiung/comp3104_fall2026#readme"
+}
