@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/FullStackJiung/comp3104_fall2026/issues"
   },
-  "homepage": "https://github.com/FullStackJiung/comp3104_fall2026",
+  "homepage": "https://FullStackJiung.github.io/comp3104_fall2026",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
